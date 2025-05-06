@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-fetch-mock": "^3.0.3",
+    "jsdom": "^26.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
